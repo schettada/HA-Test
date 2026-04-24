@@ -31,3 +31,5 @@ amazon_face_gallery/training_cache/Neeva/30489dc3d0.png
 amazon_face_gallery/training_cache/Sooraj/afcc4f1685.png
 .cache/*/*
 secrets.yaml
+home-assistant_v2.db-shm
+home-assistant_v2.db-wal
